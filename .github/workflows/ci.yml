@@ -6,9 +6,9 @@ name: Build Java with Gradle
 
 on:
   push:
-    branches: [ main ]
+    branches: [ Static ]
   pull_request:
-    branches: [ main ]
+    branches: [ Static ]
 
 jobs:
   
